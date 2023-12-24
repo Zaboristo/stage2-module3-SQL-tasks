@@ -475,6 +475,8 @@ insert into subject (name, description, grade) values ('Lille Fridolf and I', 'C
 insert into subject (name, description, grade) values ('Return Of The Ghostbusters', 'Comedy', 3);
 insert into subject (name, description, grade) values ('Seeker: The Dark Is Rising, The', 'Action|Adventure|Drama|Fantasy', 4);
 insert into subject (name, description, grade) values ('Champagne', 'Comedy', 2);
+INSERT INTO subject (name, grade, description) values ('Geo', 5, 'EMPTY');
+INSERT INTO subject (name, grade, description) values ('The', 5, 'EMPTY');
 insert into subject (name, description, grade) values ('21', 'Crime|Drama|Romance|Thriller', 2);
 insert into subject (name, description, grade) values ('Listen Up Philip', 'Drama', 1);
 insert into subject (name, description, grade) values ('Mute Witness', 'Comedy|Horror|Thriller', 3);
